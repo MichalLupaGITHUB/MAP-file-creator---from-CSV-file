@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  FileMAPCreator.cpp
+d:\projekty\garlina - schafler\filemapcreator\filemapcreator\filemapcreator\filemapcreator.cpp(46): warning C4129: 'F': unrecognized character escape sequence
+  FileMAPCreator.vcxproj -> D:\Projekty\Garlina - Schafler\FileMAPCreator\FileMAPCreator\x64\Debug\FileMAPCreator.exe

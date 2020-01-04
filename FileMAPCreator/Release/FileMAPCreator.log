@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  CSV.cpp
+  FileMAPCreator.cpp
+  MAP.cpp
+  OutFile.cpp
+  Generating code
+  All 359 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FileMAPCreator.vcxproj -> D:\Projekty\Garlina - Schafler\MAPFileCreator\Appi_20190417_new\MapFileCreator\SourceFiles\Release\FileMAPCreator.exe
